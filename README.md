@@ -12,3 +12,5 @@ This code is used in the Smart Morphing experiment to manually control small clu
 ## HCI_Infiltration
 This code is used in the Infiltration experiment to manually control small clusters to complete the task objectives.
 
+## Simulation
+This code is used to perform the dynamic simulation of the Magbot system.
